@@ -1,0 +1,14 @@
+By: Juan Goyes
+
+🗒️ Exercise 
+
+📝 Objetive: Practice the basic concepts about git (branches, commits and merges) doing use of python lenguaje model
+
+📓 Instructions:
+
+1. Create a new Python directory with a sum function, and then do a commit.
+2. Create a new branch, and inside it, add a subtraction function, then do a commit.
+3. Switch back to the main branch.
+4. Add a multiplication function and do a commit.
+5. Merge the branch you created earlier into the main branch.
+6. Verify that the file contains all three functions: sum, subtraction, and multiplication.
