@@ -1,6 +1,11 @@
 Author: juangzj - Juan Goyes
 
-📝Exercise
+📝Exercise 01
 1. Create a class called Person with:
 2. Attributes: name and age
 3. Method: introduce() that prints: "Hi, my name is [name] and I am [age] years old."
+
+📝Exercise 02
+1.Create a class Car with:
+2.Attributes: color, model, year
+3.Method: display_info() that prints the car details.
