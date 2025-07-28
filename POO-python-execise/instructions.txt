@@ -1,0 +1,6 @@
+Author: juangzj - Juan Goyes
+
+📝Exercise
+1. Create a class called Person with:
+2. Attributes: name and age
+3. Method: introduce() that prints: "Hi, my name is [name] and I am [age] years old."
