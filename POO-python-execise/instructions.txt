@@ -9,3 +9,8 @@ Author: juangzj - Juan Goyes
 1.Create a class Car with:
 2.Attributes: color, model, year
 3.Method: display_info() that prints the car details.
+
+📝Exercise 03
+1.Create a class Rectangle with:
+2.Attributes: width and height
+3.Method: area() that returns the area of the rectangle.
