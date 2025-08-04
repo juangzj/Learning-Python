@@ -6,7 +6,10 @@ class BankAccount:
         self.__balance = balance
 
     def deposit(self, amount):
-        self.__balance += amount
+        if amount > 0:
+            self.__balance += amount
+        else:
+            print("You cannot deposit less than $0")
 
     def withdraw(self, amount):
         if amount <= self.__balance:
@@ -21,7 +24,7 @@ class BankAccount:
 # Bank acount
 account = BankAccount(100)
 
-# deposit
+# deposit 01
 account.deposit(50)
 
 # get balance
@@ -43,3 +46,6 @@ account.withdraw(100)
 
 # balance 03
 balance03 = account.get_balance()
+
+# deposit 02
+account.deposit(-100)

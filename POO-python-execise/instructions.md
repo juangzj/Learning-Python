@@ -1,8 +1,9 @@
 Author: juangzj - Juan Goyes
 
-=>📓 Class and objets
+## 📓 Class and objets
 
 📝Exercise 01
+
 1. Create a class called Person with:
 2. Attributes: name and age
 3. Method: introduce() that prints: "Hi, my name is [name] and I am [age] years old."
@@ -19,7 +20,7 @@ Author: juangzj - Juan Goyes
 
 
 
-=>📓 Encapsulation
+## 📓Encapsulation
 
 📝Exercise 04
 Create a class BankAccount with:
@@ -30,3 +31,4 @@ Create a class BankAccount with:
     *get_balance()
 
 
+📝
