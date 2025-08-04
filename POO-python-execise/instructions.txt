@@ -1,5 +1,7 @@
 Author: juangzj - Juan Goyes
 
+=>📓 Class and objets
+
 📝Exercise 01
 1. Create a class called Person with:
 2. Attributes: name and age
@@ -14,3 +16,17 @@ Author: juangzj - Juan Goyes
 1.Create a class Rectangle with:
 2.Attributes: width and height
 3.Method: area() that returns the area of the rectangle.
+
+
+
+=>📓 Encapsulation
+
+📝Exercise 04
+Create a class BankAccount with:
+1. A private attribute __balance
+2. Methods:
+    *deposit(amount)
+    *withdraw(amount)
+    *get_balance()
+
+
