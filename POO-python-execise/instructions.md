@@ -37,3 +37,6 @@ Create a class Employe
 2. Method: increase_salary(percent) that increases the salary if the porcetage is more than 5%
 3. Method: get_salary()
 
+
+📝Exercise 06 
+Create a User class with a private __password and method to check if the given password is correct
