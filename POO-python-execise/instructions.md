@@ -31,4 +31,9 @@ Create a class BankAccount with:
     *get_balance()
 
 
-📝
+📝Exercise 05
+Create a class Employe
+1. A private attribute __salary
+2. Method: increase_salary(percent) that increases the salary if the porcetage is more than 5%
+3. Method: get_salary()
+
