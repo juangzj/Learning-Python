@@ -40,3 +40,8 @@ Create a class Employe
 
 📝Exercise 06 
 Create a User class with a private __password and method to check if the given password is correct
+
+## 📓Inheritance
+
+📝Exercie 07
+Create a Vehicle class with a method start(). Create a Car class that inherits from it and adds a honk() method
