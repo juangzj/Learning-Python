@@ -57,3 +57,9 @@ Create EnglishTeacher and MathTeacher classes with a teach() method showing diff
 
 📝 Exercise 10
 Create Guitar and Piano classes with a play() method showing different messages.
+
+
+## 📓 Abstraction
+
+📝Exercise 11
+Create an abstract Shape class with an area() method. Implement it in Rectangle and Circle.
