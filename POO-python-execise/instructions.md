@@ -46,5 +46,14 @@ Create a User class with a private __password and method to check if the given p
 📝Exercie 07
 Create a Vehicle class with a method start(). Create a Car class that inherits from it and adds a honk() method
 
-📝Excersie 07
+📝Excersie 08
 Create a Person class with a method greet(). Cretae a Student class that inherits from Person and add study
+
+
+## 📓Polymorphism 
+
+📝Exercise 09
+Create EnglishTeacher and MathTeacher classes with a teach() method showing different messages.
+
+📝 Exercise 10
+Create Guitar and Piano classes with a play() method showing different messages.
