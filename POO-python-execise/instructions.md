@@ -63,3 +63,6 @@ Create Guitar and Piano classes with a play() method showing different messages.
 
 📝Exercise 11
 Create an abstract Shape class with an area() method. Implement it in Rectangle and Circle.
+
+📝Exercise 12
+Create an abstract Vehicle class with a move() method. Implement it in Car and Bicycle.
